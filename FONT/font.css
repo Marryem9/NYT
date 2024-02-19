@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lodeh';
+    src: url('Lodeh.eot');
+    src: url('Lodeh.eot?#iefix') format('embedded-opentype'),
+        url('Lodeh.woff2') format('woff2'),
+        url('Lodeh.woff') format('woff'),
+        url('Lodeh.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
